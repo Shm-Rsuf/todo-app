@@ -20,3 +20,6 @@ A React Todo app is a simple task management application built using the React l
 # Links
 - [Live-Link](https://our-todo-app.netlify.app/)
 - [Front-End-Link](https://github.com/Shm-Rsuf/todo-app)
+
+# Conclusion
+Note: This project only implements the front-end of the app.
